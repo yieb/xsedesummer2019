@@ -1,0 +1,10 @@
+---------- INFORMATION ----------
+
+Book: Deep Learning with Python
+
+---------- LOG ----------
+
+Monday (6/10)
+
+Meeting: Talked about how opencv can be used with images. Also discussed the importance of normilizing images before feeding them into a network.
+Day's Work: Worked through Chapter 5. Completed first convnet neural network and achieved accuracy of .9922 versus .9706!
