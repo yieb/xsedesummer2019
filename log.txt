@@ -6,5 +6,12 @@ Book: Deep Learning with Python
 
 Monday (6/10)
 
-Meeting: Talked about how opencv can be used with images. Also discussed the importance of normilizing images before feeding them into a network.
+Meeting: Talked about how opencv can be used with images. Also discussed the importance of normilizing images 
+before feeding them into a network.
 Day's Work: Worked through Chapter 5. Completed first convnet neural network and achieved accuracy of .9922 versus .9706!
+
+Tuesday (6/11)
+
+Day's Work: Progress was made on image preprocessing for dogs and cats example from chapter 5. Became comfortable working with
+os and shutil packages to manipulate the local file system. Setup train, validation, and test directories with 2000, 1000,
+and 1000 images respectively of pets(dogs and cats).
