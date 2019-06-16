@@ -15,3 +15,25 @@ Tuesday (6/11)
 Day's Work: Progress was made on image preprocessing for dogs and cats example from chapter 5. Became comfortable working with
 os and shutil packages to manipulate the local file system. Setup train, validation, and test directories with 2000, 1000,
 and 1000 images respectively of pets(dogs and cats).
+
+Wednesday (6/12)
+
+Day's Work: Watched some videos on Convnets to better understand how they work.
+Read beginning of chapter 5 again in order to better understand convnets. Things
+are not really making sense yet.
+
+Friday(6/14)
+
+Day's Work: Setup cats and dogs convnet and trained the network. Played around
+with settings of the model and layers to see if I could fix the accuracy issue.
+Book says I should be getting nearly 100% accuracy and a case of overfitting but
+my model is only reaching 49% accuracy.
+
+Sunday (6/16)
+
+Day's Work: Still cannot figure out why cats and dogs network is not working right.
+Going to have to ask Dr. Liu in the next meeting for help with this. Still not
+really comfortable with convnets and I feel like I am just typing what is in 
+the book and not fully understanding it. Changed number of epochs to 10 because
+model seems to be lossing accuracy with the recommended 30 epochs. Accuracy
+peaks at epoch #6. Convnet saved to ./dogcat_bad.h5
