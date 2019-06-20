@@ -37,3 +37,40 @@ really comfortable with convnets and I feel like I am just typing what is in
 the book and not fully understanding it. Changed number of epochs to 10 because
 model seems to be lossing accuracy with the recommended 30 epochs. Accuracy
 peaks at epoch #6. Convnet saved to ./dogcat_bad.h5
+
+Monday (6/17)
+
+Meeting: Met with Dr. Liu (Hood) and Dr. Liu (NIH) to discuss moving on from chapter 5. 
+Task for the day is to download medical x-ray images and move them into folders
+based on their classification (what was found wrong on them). Instructed to use python
+script to download images on the server and then extract classification phenotypes
+based off of the .csv file that comes with the images.
+
+Day's Work: Downloaded and extracted image files. Started to work on preprocessing images
+by dividing them up based on their labels. Python code was not working 100% at the end of
+the day.
+
+Tuesday (6/18)
+
+Meeting: Talked about different ways to work with csv files in python. I was using os and 
+shutil but Dr. Liu recommended that I use pandas or numpy to work with such large datasets.
+
+Day's Work: Not much
+
+Wednesday (6/19)
+
+Day's Work: Finished preprocessing script and uploaded to the server. Stil trying to figure
+out how the images need to be classified in order to build a model around them. Hamid and I
+will have questions for tomorrow's meeting so we can better understand what is going on.
+
+Thursday (6/20)
+
+Meeting:
+
+Day's Work:
+
+Friday (6/21)
+
+Meeting:
+
+Day's Work:
