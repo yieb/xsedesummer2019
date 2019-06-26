@@ -1,7 +1,7 @@
 
-base_dir = '/home/xsede3/xsedesummer2019/medical/img/'
+base_dir = '/home/xsede4/xsedesummer2019/medical/img/'
 
-img_dir = '/home/xsede3/xsedesummer2019/medical/img/original_images/'
+img_dir = '/home/xsede4/xsedesummer2019/medical/img/original_images/'
 
 
 import pandas as pd
