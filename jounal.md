@@ -9,10 +9,10 @@
 | wednesday (6/26) |                                                              | looked at christians model and tried to understand it, couldnt do much because i had a migraine. |
 | thursday (6/27)  | talked                                                       | was trying to understand how to use a pre trained model, however i have a project due for my class that i thought was due tomorrow, so worked on that |
 | friday (6/28)    | talked to the professor, he told us that we'll have to present what we've done so far on tuesday and reminded us about our end result which is to use a GAN to generate images that can trick the computer | watched videos on using pre trained models and worked on some examples |
-|                  |                                                              |                                                              |
-|                  |                                                              |                                                              |
-|                  |                                                              |                                                              |
-|                  |                                                              |                                                              |
-|                  |                                                              |                                                              |
-|                  |                                                              |                                                              |
+| Monday (7/1)     |                                                              | read chapter 5 again from the book, formulated some questions |
+| Tuesday (7/2)    | Had our presentation along with Dr. Yanling Liu's interns    | none                                                         |
+| Wednesday (7/3)  | Had a chat with Dr. Liu regarding pre trained networks. He explained about the two parts- upper and bottom. bottom part is the convolution that collects features. upper is the actual classifier. | Tried to use christians model along iwth VGG16 from keras however realized christians network is only for 'Cardiomegaly' disease, so will have to train a new network again. |
+| Thursday (7/4)   | no meeting, 4th of july                                      | no work, 4th of july                                         |
+| Friday (7/05)    | no meeting, 4th of july                                      | out of town                                                  |
+| Monday (07/08)   | We were talking about GANS but i lost connection.            | solid day of work, trained a new network with near 90% already and then used the VGG16 from keras as a pre trained network to transfer learning, still have to fine tune the network, will push the network on to github after fine tuning it tomorrow |
 |                  |                                                              |                                                              |
