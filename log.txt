@@ -65,12 +65,89 @@ will have questions for tomorrow's meeting so we can better understand what is g
 
 Thursday (6/20)
 
-Meeting:
+Meeting: Talked about issues with building a model with too many different labels.
+There is the possibility for overfitting in the given data set.
 
-Day's Work:
+Day's Work: None
 
 Friday (6/21)
 
-Meeting:
+Meeting: Reported on progress with model. Tried to follow an example from Kaggle but
+was getting too many errors. Read up a little bit more on python and some useful functions.
 
-Day's Work:
+Day's Work: Built model according to tutorial but could not get it to train.
+
+Monday (6/24)
+
+Meeting: Reported on progress over the weekend. Found another Kaggle example and
+am trying to implement it now.
+
+Day's Work: None (Vacation)
+
+Tuesday (6/25)
+
+Meeting: Professor had a meeting, there was no morning meeting.
+
+Day's Work: None (Vacation)
+
+Wednesday (6/26)
+
+Meeting: Hamid had a couple of questions about the model not working before moving on.
+We talked about the new example that I found and how I hope to implement it.
+
+Day's Work: Got the model to work. Trained model and tested it on given dataset.
+Model accuracy is very low. Maybe tomorrow I can try some other layer configuration to 
+increase accuracy.
+
+Thursday (6/27)
+
+Meeting: Reported on model. Fairly short meeting.
+
+Day's Work: Improved model accuracy by a couple of percent. Searched through a couple
+papers on the web to try and find the most efficent way to determine the proper layers
+to apply to any model. Pretty much seems to be trial and error.
+
+Friday (6/28)
+
+Meeting: Dr. Liu recommended that we move on because the summer is going by quickly.
+Hamid is taking pretrained networks and I will be concentrating on GANs. The end
+project goal for the summer is using a GAN to create fake x-ray images.
+
+Day's Work: Not much, pushing changes to git and talking with hamid about some details
+in the code of the model.
+
+Monday (7/1)
+
+Meeting: Short meeting, I didn't have much to report on because of my light work load on 
+friday.
+
+Day's Work: Read chapter 8 from the book, formulated some questions.
+
+Tuesday (7/2)
+
+Meeting: Spoke about some questions I had about GANs. Expressed concerns to the professor that
+Hamid and I are having a hard time keeping up because we are learning so much so fast and not
+getting a lot of time to practice it.
+
+Day's Work: Tried some examples from the book just to get a GAN to work and start to understand
+how it works. Unable to train a network. Read through the X-Ray image dataset journal paper
+to help me understand what I am doing with this dataset.
+
+Wednesday (7/3)
+
+Meeting: Unable to attend meeting due to other internship.
+
+Day's Work: None
+
+Thursday (7/4)
+
+Meeting: No meeting for 4th of July
+
+Day's Work: A solid day of working with the GAN examples in the book and still nothing to show for
+it. I will have plenty of questions for Dr. Liu come our next meeting on Monday.
+
+Friday (7/5)
+
+Meeting: No meeting for 4th of July weekend
+
+Day's Work: None
